@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Movies"
+        android:icon="@drawable/movies"
+        android:title="Movies" />
+    <item
+        android:id="@+id/Series"
+        android:icon="@drawable/series"
+        android:title="Series" />
+    <item
+    android:id="@+id/Explore"
+    android:icon="@drawable/explorer"
+    android:title="Explore" />
+    <item
+        android:id="@+id/Notifications"
+        android:icon="@drawable/noti"
+        android:title="Notifications" />
+
+</menu>
